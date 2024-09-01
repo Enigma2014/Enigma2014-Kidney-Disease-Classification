@@ -1,1 +1,1 @@
-# Enigma2014-Kidney-Disease-Classification
+# Kidney-Disease-Classification
